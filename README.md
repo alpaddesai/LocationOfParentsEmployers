@@ -2,7 +2,7 @@
 
 ![image](LocationOfParentsEmployers.jpg)
 
-![image](AcademicQualifications.jpg)
+![image](AcademicQualificationsI.jpg)
 
 ![image](ModesOfTransportation.jpg)
 
