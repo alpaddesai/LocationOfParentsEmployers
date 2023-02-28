@@ -2,6 +2,8 @@
 
 ![image](LocationofParentsEmployer.jpg)
 
+![image](AcademicQualifications.jpg)
+
 ![image](ModesOfTransportation.jpg)
 
 ![image](EthicsandExcellence.png)
