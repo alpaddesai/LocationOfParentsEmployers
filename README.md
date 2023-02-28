@@ -1,6 +1,6 @@
 # Location of Parent's Employers
 
-![image](LocationofParentsEmployer.jpg)
+![image](LocationOfParentsEmployers.jpg)
 
 ![image](AcademicQualifications.jpg)
 
